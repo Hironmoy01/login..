@@ -1,0 +1,14 @@
+.education{
+  width: 90%;
+  height:90%;
+}
+.form{
+  max-width: 200px;
+padding: 1rem 0.25rem;
+}
+label{
+  display: grid;
+}
+title{
+text-align: center;
+}
